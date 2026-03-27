@@ -1,0 +1,9 @@
+{
+  "name": "cc-mastery-marketplace",
+  "description": "Claude Code mastery marketplace",
+  "plugins": {
+    "cc-mastery": {
+      "path": "."
+    }
+  }
+}
