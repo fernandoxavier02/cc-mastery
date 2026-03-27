@@ -1,0 +1,9 @@
+{
+  "name": "cc-mastery",
+  "version": "1.0.0",
+  "description": "Claude Code mastery plugin — expert routing across cc-* agents, health diagnostics, and automatic context maintenance.",
+  "author": {
+    "name": "Fernando Xavier"
+  },
+  "keywords": ["claude-code", "context", "diagnostics", "agents", "health-check"]
+}
