@@ -1,0 +1,21 @@
+{
+  "name": "cc-toolkit",
+  "description": "Claude Code Swiss Army Knife — diagnose, configure, and build your Claude Code environment. Meta-skill /cc with triage menu + 9 specialized skills for context audit, MCP, hooks, agents, prompts, security, setup, and skill building.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fernandobt",
+    "email": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "context",
+    "mcp",
+    "hooks",
+    "agents",
+    "skills",
+    "setup",
+    "security",
+    "troubleshooting"
+  ]
+}
